@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  Python and Java
 - 😄And I'm also preparing for the graduate School entrance exam
-
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyduck025)
 
 
 <!--
