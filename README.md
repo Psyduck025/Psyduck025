@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  Python and Java
 - 😄And I'm also preparing for the graduate School entrance exam
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyduck025)
+
 
 <!--
 **Psyduck025/Psyduck025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
