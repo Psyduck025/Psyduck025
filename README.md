@@ -1,5 +1,4 @@
 ### Hi there 👋
-# README.psyduck
 # Psyduck 可达鸭
 - 🌱 I’m currently learning  Python and Java
 - 😄And I'm also preparing for the graduate School entrance exam
