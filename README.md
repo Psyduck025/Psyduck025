@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Psyduck 可达鸭
 - 🌱 I’m currently learning  Python and Java
-- 😄And I'm also preparing for the graduate School entrance exam
+- 😄And I'm also preparing ...
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyduck025)
 
 
