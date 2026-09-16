@@ -1,7 +1,13 @@
 ### Hi there 👋
 # Psyduck 可达鸭
-- 🌱 I’m currently learning  Python and Java
-- 😄And I'm also preparing ...
+- 🌱 I’m currently learning  Python and Machine Learning
+- 😄And I'm also thinking and researching some other matters, such as...
+- 🔬 AI for Materials / Materials Prediction
+- 🧪 DFT · MD 
+- 🔋 Low-temperature electrolyte prediction and screening
+- ⚡ Energy Materials · Computational Chemistry
+
+`AI4Science` `Materials Informatics` `DFT` `MD` `Machine Learning` `Electrolyte` `Energy Materials`
 
 
 <!--
